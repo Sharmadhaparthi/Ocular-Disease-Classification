@@ -2,7 +2,7 @@
 
 The project was completed in September 2021
 
-•	The aim of the notebook is to claasify the annotations labeled by trained human readers with quality control management into two labels including normal and cataract.
+•	The aim of the notebook is to classify the annotations labeled by trained human readers with quality control management into two labels including normal and cataract.
 
 •	Performed exploratory data analysis, augmentation of images, one-hot encoding and image generator techniques to enhance results. 
 
